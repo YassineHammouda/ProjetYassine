@@ -1,0 +1,21 @@
+
+.btm{
+    background-color: blue !important;
+}
+
+.choix{
+    display: none;
+}
+/*
+img{
+    width: 100px;
+    height: 100px;
+}
+img:first-child{
+    width: 600px;
+    height: 400px;
+}
+.image p{
+    display: none;
+}
+

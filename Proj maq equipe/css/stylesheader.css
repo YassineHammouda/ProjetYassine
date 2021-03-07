@@ -23,10 +23,14 @@
 .headdeuxiemeline{
     color:  #01242D;
     
+    
 }
 .headdeuxiemeline a{
     color:  #01242D;
     font-size: 18px;
+}
+.headtroisiemeline{
+    background-color:lightgray;
 }
 .headtroisiemeline h6{
     color:  #01242D;
